@@ -20,8 +20,8 @@ export default function Navigation() {
       <Navbar.Brand as={NavLink} to="/home">
         <img
           src={Yoka}
-          width="90px"
-          height="90px"
+          width="140px"
+          height="140px"
           alt="Yoka For The Doggo's"
         />
       </Navbar.Brand>

@@ -3,9 +3,9 @@ import dog from "../../images/SunnyDogCopy.JPG"
 
 export default function index() {
     const styledPic = {
-        width: "50%",
-        marginLeft: "25%",
-        marginTop: "-10%"
+        width: "100%",
+        marginLeft: "0%",
+        marginTop: "-30%"
     }
 
     return (
