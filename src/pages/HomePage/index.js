@@ -10,12 +10,14 @@ export default function Homepage() {
         <div>
 
             <ImageBar />
-            <br />
+
             <ItemBar />
             <div className='InfoBox'>
-                <h2>
+                <br />
+                <h3>
                     About Yoka For Dogs <br />
-                </h2>
+                </h3>
+                <br />
                 We spend a quarter of our life in bed. <br />
                 We believe a bed should be the highlight of your bedroom.<br />
                 A reflection of taste and personality with the comfort <br />
