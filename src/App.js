@@ -36,13 +36,13 @@ function App() {
       {isLoading ? <Loading /> : null}
       <Switch>
         <Route exact path="/home" component={Home} />
-        <Route path="/about" component={About} />
+        <Route path="/profile" component={Profile} />
         <Route path="/signup" component={SignUp} />
+        <Route path="/search" component={Search} />
+        <Route path="/about" component={About} />
         <Route path="/login" component={Login} />
         <Route path="/shop" component={Shop} />
         <Route path="/cart" component={Cart} />
-        <Route path="/profile" component={Profile} />
-        <Route path="/search" component={Search} />
       </Switch>
       <Footer />
     </div>
