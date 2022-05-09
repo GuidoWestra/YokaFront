@@ -15,9 +15,7 @@ export default function index() {
                 NEW IN <br />
             </h3>
             <div>
-                <div>
-                    <img src={item} alt="product1" style={styledPicture} />
-                </div>
+                <img src={item} alt="product1" style={styledPicture} />
                 <img src={item} alt="product2" style={styledPicture} />
                 <img src={item} alt="product3" style={styledPicture} />
             </div>
