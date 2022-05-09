@@ -1,0 +1,17 @@
+.App {
+  background-color: #fdf7da;
+  min-height: 0vh;
+}
+.InfoBox {
+  background-color: rgb(222, 231, 242);
+  min-height: 100vh;
+  margin-top: 100vh;
+  text-align: center;
+}
+
+.InfoBox2 {
+  background-color: #fdf7da;
+  min-height: 100vh;
+  margin-top: -15%;
+  text-align: center;
+}
